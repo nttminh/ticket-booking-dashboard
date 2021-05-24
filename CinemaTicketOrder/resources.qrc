@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>cinema.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>Fibrary.qss</file>
+    </qresource>
+</RCC>
